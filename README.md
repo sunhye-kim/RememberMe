@@ -1,2 +1,0 @@
-# RememberMe
-Calendar Project
